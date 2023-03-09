@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+:root {
+    --azul: #060273;
+    --azul-claro: #4A44F2;
+    --amarelo: #F2E205;
+    --vermelho: #F23827;
+    --vermelho-escuro: #A62424;
+    --font: 'Patrick Hand', cursive;
+}
